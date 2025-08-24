@@ -20,7 +20,8 @@ Two models were compared in this project: **Logistic Regression (LR)** and **Ran
 | Best Cross-Validation Score     | 97.36%      | 97.14%        |
 
 **Confusion Matrix Diagram**
-<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="700"/>
+
+<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
 
 
 ### 📊 Key Insights
