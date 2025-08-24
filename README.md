@@ -19,7 +19,8 @@ Two models were compared in this project: **Logistic Regression (LR)** and **Ran
 | Recall (Class 1 - Malignant)    | 0.98        | 0.93          |
 | Best Cross-Validation Score     | 97.36%      | 97.14%        |
 
-![Confusion Matrix](/images/confusion_matrix.png)
+<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+
 
 ### 📊 Key Insights
 - **Generalization**: Logistic Regression shows consistent train vs. test accuracy (98.46% vs. 98.25%), whereas Random Forest has higher train accuracy but drops more on the test set (99.78% → 97.37%), suggesting mild **overfitting**.  
