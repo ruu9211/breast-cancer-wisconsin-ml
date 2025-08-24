@@ -19,7 +19,8 @@ Two models were compared in this project: **Logistic Regression (LR)** and **Ran
 | Recall (Class 1 - Malignant)    | 0.98        | 0.93          |
 | Best Cross-Validation Score     | 97.36%      | 97.14%        |
 
-<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+**Confusion Matrix Diagram**
+<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="700"/>
 
 
 ### 📊 Key Insights
