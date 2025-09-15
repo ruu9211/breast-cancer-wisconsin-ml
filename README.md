@@ -1,3 +1,5 @@
+# 🧬 Breast Cancer Wisconsin Dataset — Machine Learning Project
+
 ## 📌 Overview
 Breast cancer is one of the most common cancers worldwide, and early detection plays a crucial role in improving patient outcomes. Medical diagnosis often relies on examining **biopsy samples** to determine whether a tumor is **benign** (non-cancerous) or **malignant** (cancerous). Among biopsy techniques, **fine needle aspirate (FNA)** is widely used because it is minimally invasive and effective at capturing cellular details for diagnosis. This dataset consists of **569 patient cases** with **30 numerical features** extracted from digitized images of FNA samples of breast tissue. 
 
